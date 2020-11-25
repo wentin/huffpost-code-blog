@@ -1,5 +1,4 @@
 huffpost-code-blog
 ==================
-http://wentin.co/huffpost-code-blog/
-
-http://wentin.co/huffpost-code-blog/post.html
+https://huffpost.wentin.net/
+https://huffpost.wentin.net/post.html
